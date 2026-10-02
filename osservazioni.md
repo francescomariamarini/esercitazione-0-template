@@ -27,12 +27,11 @@ Esito dopo la modifica e spiegazione della correzione:stampa grazie al comando p
 
 ## Step 1 — Git
 
-Quali file ho incluso nel commit e perché:
+Quali file ho incluso nel commit e perché:hello.c e osservazioni.md, perché il primo è il file sorgente che abbiamo modificato per permettere la stampa del messaggio, il secondo perchè modificato con le  risposte alle domande.
 
-Come ho verificato che la versione provata sia presente su GitHub:
-
+Come ho verificato che la versione provata sia presente su GitHub: 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
-
+Verifica del commit avvenuta con successo 
 ## Step 2 — Eco: prima prova
 
 Argomenti passati, comando e risultato:
