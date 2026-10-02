@@ -2,9 +2,9 @@
 
 Gruppo:
 
-Componenti (nome, cognome e username GitHub di entrambi):
+Componenti (nome, cognome e username GitHub di entrambi): Francesco Maria Marini,francescomariamarini, Marco Papale, MarcoPapale1904.
 
-URL del repository condiviso:
+URL del repository condiviso:https://github.com/francescomariamarini/esercitazione-0-template
 
 Chi ha usato la tastiera nello step 1 e nello step 2:
 
@@ -13,15 +13,17 @@ saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
 
-Comando di compilazione:
+Comando di compilazione: gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
+./hello
 
-Comando di esecuzione e risultato osservato:
 
-Che cosa ho capito su sorgente ed eseguibile:
+Comando di esecuzione e risultato osservato:./hello , la stampa del messaggio Hello, computational physics
 
-Output richiesto e comportamento del programma prima della modifica:
+Che cosa ho capito su sorgente ed eseguibile: hello.c è il file sorgente ivece hello è il file eseguibile che ho compilato
 
-Esito dopo la modifica e spiegazione della correzione:
+Output richiesto e comportamento del programma prima della modifica: Hello, computational physics , prima della modifica non stampava nulla, 
+
+Esito dopo la modifica e spiegazione della correzione:stampa grazie al comando printf. 
 
 ## Step 1 — Git
 
